@@ -1,2 +1,2 @@
-# MOVIE-TRAILER
-full stack web development nano degree project 
+# movie-trailers
+Full Stack Web Development Nano Degree Project 
